@@ -1,0 +1,7 @@
+C:\Users\Harmen\Downloads\Studentversie\Studentversie\TPProject\bin\Debug\Graph.exe.config
+C:\Users\Harmen\Downloads\Studentversie\Studentversie\TPProject\bin\Debug\Graph.exe
+C:\Users\Harmen\Downloads\Studentversie\Studentversie\TPProject\bin\Debug\Graph.pdb
+C:\Users\Harmen\Downloads\Studentversie\Studentversie\TPProject\obj\Debug\Uitwerking.csprojResolveAssemblyReference.cache
+C:\Users\Harmen\Downloads\Studentversie\Studentversie\TPProject\obj\Debug\Uitwerking.csproj.CoreCompileInputs.cache
+C:\Users\Harmen\Downloads\Studentversie\Studentversie\TPProject\obj\Debug\Graph.exe
+C:\Users\Harmen\Downloads\Studentversie\Studentversie\TPProject\obj\Debug\Graph.pdb
